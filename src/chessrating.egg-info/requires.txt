@@ -1,0 +1,10 @@
+numpy
+requests
+pyarrow
+python-chess
+pandas
+scipy
+scikit-learn
+lightgbm
+shap
+matplotlib

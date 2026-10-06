@@ -1,0 +1,7 @@
+pyproject.toml
+src/chessrating-notebooks-data/__init__.py
+src/chessrating.egg-info/PKG-INFO
+src/chessrating.egg-info/SOURCES.txt
+src/chessrating.egg-info/dependency_links.txt
+src/chessrating.egg-info/requires.txt
+src/chessrating.egg-info/top_level.txt

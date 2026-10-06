@@ -1,0 +1,26 @@
+[project]
+name = "chessrating"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy",
+    "requests",
+    "pyarrow",
+    "python-chess",
+    "pandas",
+    "scipy",
+    "scikit-learn",
+    "lightgbm",
+    "shap",
+    "matplotlib"
+]
+
+[project-opt-dependencies]
+dev = [
+    "pytest",
+    "ruff",
+    "jupyter",
+    "ipykernal",
+]
+[tool.setuptools.packages.find]
+where = ["src"]
